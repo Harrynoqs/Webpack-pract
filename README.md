@@ -1,28 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Basic Webpack Setup
 
-> Description the project.
-
+> This is a basic webpack setup project demo.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Webpack
+- CSS
+- Git and Github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://github.com/Harrynoqs/Webpack-pract)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+\*\* this project runs on any browser
 
 To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
@@ -42,15 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Harrynoqs](https://github.com/githubhandle)
+- Twitter: [@noqsnoq1](https://twitter.com/twitterhandle)
+- LinkedIn: (https://www.linkedin.com/in/harrison-njuguna-59536314/)
 
 ## 🤝 Contributing
 
